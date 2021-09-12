@@ -1,0 +1,14 @@
+Ordine,Categoria
+"abbigliamento,elettronica,cancelleria e ufficio",Non Fragile
+"libri,bellezza,elettronica",Fragile
+"cancelleria e ufficio,libri",Non Fragile
+"prodotti per animali,abbigliamento,bellezza",Fragile
+"videogiochi,libri,elettronica",Non Fragile
+"informatica, prodotti per animali, elettronica",Fragile
+"illuminazione,utensili",Fragile
+"utensili,auto e moto",Non Fragile
+"illuminazione,elettronica",Fragile
+"cancelleria e ufficico, libri",Non Fragile
+"informatica,cancelleria e ufficio, videogiochi",Fragile
+"cancelleria e ufficio, strumenti musicali",Fragile
+"libri,strumenti musicali",Fragile
